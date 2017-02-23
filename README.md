@@ -9,7 +9,7 @@
 ### 使用
 - 本`Demo`利用`Cocoapods`管理第三方框架，若第一次使用本项目，请使用终端`cd`到如下图所示的文件夹，执行`pod install`命令即可。
 
-	![Usage.png](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/Usage.png)
+	![Usage.png](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/Usage.png)
 
 
 ### 期待
@@ -25,7 +25,7 @@
     
     	- 效果图
     		
-    		![BaiSiBuDeJie.gif](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/BaiSiBuDeJie.gif)
+    		![BaiSiBuDeJie.gif](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/BaiSiBuDeJie.gif)
     		
     	- 说明文档：（TOOD...）
     	
@@ -33,7 +33,7 @@
     
     	- 效果图
     	
-    		![NetEaseNews.gif](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/NetEaseNews.gif)
+    		![NetEaseNews.gif](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/NetEaseNews.gif)
     	
     	- 说明文档：（TOOD...）
   
@@ -42,7 +42,7 @@
 		
 		- 效果图
 		
-			![comment.gif](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/comment.gif)
+			![comment.gif](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/comment.gif)
 			
 		- 说明文档：[iOS实现微信朋友圈评论回复功能（一）](http://www.jianshu.com/p/395bac3648a7)
 		
@@ -50,14 +50,14 @@
 	* 利用UITableViewCell嵌套UITableView实现
 		- 效果图
 		
-			![comment.gif](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/comment.gif)
+			![comment.gif](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/comment.gif)
 			
-		- 说明文档：[iOS实现微信朋友圈评论回复功能（二）](http://www.jianshu.com/p/733733fd042d)
+		- 说明文档：[iOS实现微信朋友圈评论回复功能（二）]
 	
 	* 利用UITableView的段头+Cell+段尾实现优酷的视频的评论回复功能
 		- 效果图
 	
-			![youkuComment.gif](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/youkuComment.gif)
+			![youkuComment.gif](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/youkuComment.gif)
 			
 		- 说明文档：（TOOD...）
 		
@@ -66,14 +66,14 @@
 	* UITableView的侧滑删除功能
 		- 效果图
 		
-			![tableView_del.gif](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/tableView_del.gif)
+			![tableView_del.gif](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/tableView_del.gif)
 		
-		- 说明文档：[iOS UITableView删除功能](http://www.jianshu.com/p/4c53901062eb)
+		- 说明文档：[iOS UITableView删除功能]
 		
 	* UITableView的的多选、删除功能
 		- 效果图
 			
-			![tableView_sel.gif](https://github.com/CoderMikeHe/MHDevelopExample_Objective_C/blob/master/MHDevelopExample/SnapShot/tableView_sel.gif)
+			![tableView_sel.gif](https://github.com/MeiHuo0733/THDevelopExample/blob/master/MHDevelopExample/SnapShot/tableView_sel.gif)
 			
 		- 说明文档：[iOS UITableView 多选删除功能](http://www.jianshu.com/p/1d82befe9988)
 
